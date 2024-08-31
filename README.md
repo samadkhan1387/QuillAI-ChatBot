@@ -1,7 +1,7 @@
 Developed by : Abdul Samad
 ## Architecture
 
-he architecture of the Quill Ai app is designed to efficiently process and interact with PDF documents, along with a voice chat feature for enhanced user interaction. Here's a breakdown of the workflow:
+The architecture of the Quill Ai app is designed to efficiently process and interact with PDF documents, along with a voice chat feature for enhanced user interaction. Here's a breakdown of the workflow:
 
 ### Overview
 
