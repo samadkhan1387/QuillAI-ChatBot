@@ -30,7 +30,7 @@ class GeminiRepository extends BaseGeminiRepository {
     try {
       final geminiAPIKey = await SecureStorage().getApiKey();
       Object? mapData = {};
-      final model = image == null ? 'gemini-pro' : 'gemini-pro-vision';
+      final model = image == null ? 'gemini-1.5-flash' : 'gemini-1.5-flash';
       if (image == null) {
         mapData = {
           'contents': [
